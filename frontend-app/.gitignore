@@ -1,0 +1,7 @@
+/node_modules
+/assets/css/material-dashboard.css.map
+/npm-debug.log
+/dist
+yarn.lock
+package-lock.json
+yarn-error.log

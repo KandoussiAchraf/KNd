@@ -1,0 +1,9 @@
+**/node_modules
+cordova-app/
+electron-app/
+electron-client/
+electron-jar/
+frontend-app/
+.mvn/
+mvnw.cmd
+mvnw
